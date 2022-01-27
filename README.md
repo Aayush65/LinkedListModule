@@ -2,17 +2,17 @@
 This python module contains 12 important and time efficient functions for dealing with Linked Lists in Python :-
 #
 1. **listToLink(lst)**
-	This function converts the passed list into a linked list and returns the head of the Linked List
+	This function converts the passed list into a linked list and returns the head of the Linked List.
 	Time Complexity : O(n)
 	Space Complexity : O(1)
       
 2. **linkToList(head)**
-	This function converts all the nodes from the linked list passed as a head in this function, into list
+	This function converts all the nodes from the linked list passed as a head in this function, into list.
 	Time Complexity : O(n)
 	Space Complexity : O(n)
 	
 3. **length(head)**
-	This funtion returns the length of the linked list
+	This funtion returns the length of the linked list.
 	Time Complexity : O(n)
 	Space Complexity : O(1)
 	
@@ -35,7 +35,7 @@ This python module contains 12 important and time efficient functions for dealin
 	Space Complexity : O(1)
 	
 7. **delete(head, index)**
-	This function deletes the node at the given index and returns the resulting head node
+	This function deletes the node at the given index and returns the resulting head node.
 	Time Complexity : O(n)
 	Space Complexity : O(1)
 	
@@ -56,11 +56,11 @@ This python module contains 12 important and time efficient functions for dealin
 	Space Complexity : O(1)
 
 11. **reverse(head)**
-	This function reverses the linked list and returns the new head node i.e. the tail node of the given Linked list
+	This function reverses the linked list and returns the new head node i.e. the tail node of the given Linked list.
 	Time Complexity : O(n)
 	Space Complexity : O(1)	
 
 12. **printll(head)**
-	This function prints out the linked list by using the passed head node
+	This function prints out the linked list by using the passed head node.
 	Time Complexity : O(n)
 	Space Complexity : O(1)
